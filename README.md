@@ -9,6 +9,8 @@ Aplikasi ini merupakan program berbasis OOP yang menggunakan konsep multi-level 
 ## Struktur Kelas
 Program ini menggunakan 3 level kelas dengan hierarki sebagai berikut:
 
+![Image](https://github.com/user-attachments/assets/916e423c-c501-4ec0-b50a-b002aa7283d3)
+
 **1. PetShop (Kelas Dasar)**
 
 Atribut:
